@@ -1,23 +1,28 @@
 package esercizio2;
 
-public void Chiamata(String numeroChiamato, int durata) {
-    this.numeroChiamato = numeroChiamato;
-    this.durata = durata;
-}
+public class Chiamata {
+    private String numeroChiamato;
+    private int durata; // durata in minuti
 
-public String getNumeroChiamato() {
-    return numeroChiamato;
-}
+    public Chiamata(String numeroChiamato, int durata) {
+        this.numeroChiamato = numeroChiamato;
+        this.durata = durata;
+    }
 
-public int getDurata() {
-    return durata;
-}
+    public String getNumeroChiamato() {
+        return numeroChiamato;
+    }
 
-@Override
-public String toString() {
-    return "Chiamata{" +
-            "numeroChiamato='" + numeroChiamato + '\'' +
-            ", durata=" + durata +
-            " minuti}";
+    public int getDurata() {
+        return durata;
+    }
+
+    @Override
+    public String toString() {
+        return "Chiamata{" +
+                "numeroChiamato='" + numeroChiamato + '\'' +
+                ", durata=" + durata +
+                " minuti}";
+    }
 }
 

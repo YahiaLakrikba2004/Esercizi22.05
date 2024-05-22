@@ -1,18 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cc65fbe-146e-4796-9c04-3708974e8798" name="Changes" comment="" />
+    <list default="true" id="1cc65fbe-146e-4796-9c04-3708974e8798" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/esercizio3/Articolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/esercizio3/Carrello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/esercizio3/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/esercizio3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizio1/Rettangolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/esercizio1/Rettangolo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizio2/Chiamata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/esercizio2/Chiamata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizio2/Sim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/esercizio2/Sim.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "YahiaLakrikba2004"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/YahiaLakrikba2004/Esercizi22.05.git",
+    "accountId": "6c4a33ac-a7a3-4905-b366-0ac49ba3dfc3"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2gowkQyRtcTGr3SLqw6XDtCuoJC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,7 +53,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/lakri/Desktop/Esercizi22.05/src/Main.java"
